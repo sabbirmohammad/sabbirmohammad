@@ -1,7 +1,7 @@
 
 
 <h1 align="center" style="font-size: 50px;">Hello 👋, I'm SABBIR</h1>
-<h3 align="center">STUDENT, LEARNER, SEEKER</h3>
+<h3 align="center">LEARNER, SEEKER</h3>
 
 <img align="right" alt="terminal" width="400" src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif">
 
